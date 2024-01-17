@@ -10,7 +10,7 @@ A partir de uma apresentação foi extraído o texto e realizado a transformaç�
 As IAs Generativas utilizadas foram: Gamma.app para a apresentação e D-ID para a transformação do texto em vídeo.
 
 ## 🧐 Processo de Criação
-Foi requisitado ao Gamma.app desenvolver uma apresentação com ajuda da IA sobre a questão Como a IA pode ser aplicada na área de negócios?, a partir do conteúdo gerado foi extraído o texto e colocado no site do D-ID para fazer a conversão do texto em áudio e vídeo.
+Foi requisitado ao Gamma.app desenvolver uma apresentação com ajuda da IA sobre a questão Como a IA pode ser aplicada na área de negócios? A partir do conteúdo gerado foi extraído o texto e colocado no site do D-ID para fazer a conversão do texto em áudio e vídeo.
 
 ## 🚀 Resultados
 Com a versão gratuita foi possível fazer a apresentação e um vídeo de forma separada.
